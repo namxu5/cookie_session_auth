@@ -1,13 +1,13 @@
-(
-echo # Danh sách hình ảnh
-echo
-echo "![Ảnh 1](1.png)"
-echo "![Ảnh 2](2.png)"
-echo "![Ảnh 3](3.png)"
-echo "![Ảnh 4](4.png)"
-echo "![Ảnh 5](5.png)"
-echo "![Ảnh 6](6.png)"
-echo "![Ảnh 7](7.png)"
-echo "![Ảnh 8](8.png)"
-echo "![Ảnh 9](9.png)"
-) > README.md
+# Danh sách hình ảnh
+
+![Ảnh 1](1.png)  
+![Ảnh 2](2.png)  
+![Ảnh 3](3.png)
+
+![Ảnh 4](4.png)  
+![Ảnh 5](5.png) 
+![Ảnh 6](6.png)
+
+![Ảnh 7](7.png)  
+![Ảnh 8](8.png)  
+![Ảnh 9](9.png)
